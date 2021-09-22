@@ -1,0 +1,21 @@
+.img-fluid{
+  background-size: cover;
+  width: auto;
+}
+.tagline{
+
+ position: absolute;
+ top: 25%;
+ left: 20%;
+transform: translate(-50%, -50%);
+text-align: center;
+}
+.tag1{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #003638;
+
+}
+.cover-cont{
+position: relative;
+
+}
