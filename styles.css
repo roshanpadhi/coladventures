@@ -35,7 +35,7 @@ position: relative;
     color: #D4ECDD;
 }
 .bottom-contents{
-  text-align: left;
+  text-align: center;
 }
 
 .fu{
@@ -48,7 +48,7 @@ font-weight: bold;
   font-weight: bold;
 }
 .bottom-logo{
-  text-align: right;
+  text-align: center;
 
 }
 hr{
@@ -59,6 +59,4 @@ hr{
   display: block;
   border-width: 1px;
 }
-.bottom-logo-img{
-  margin-right: 10px;
-}
+
