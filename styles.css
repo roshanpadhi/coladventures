@@ -75,8 +75,11 @@ body {
 .p-font-link {
   font-family: 'Poppins', sans-serif;
   font-weight: bold;
+  color: #112031;
 }
-
+.p-font-link:hover{
+  color: #467a84;
+}
 .hr2 {
   border-style: dotted none none none;
   width: 95%;
@@ -109,4 +112,18 @@ body {
   border-radius: 30px;
   text-align: center;
   font-size: 20px;
+}
+.navb{
+  background-color: white;
+}
+.navbar-toggler:focus {
+    box-shadow: 0 0 0 0;
+}
+.navbar-toggler{
+  border: transparent;
+
+}
+.nav-icon{
+  font-size: 2rem;
+  color: #112031;
 }
