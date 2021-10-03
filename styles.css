@@ -6,6 +6,11 @@ body {
   background-size: cover;
   width: auto;
 }
+.logo{
+  width: 130px;
+  height: 45px;
+  padding-left: 10%;
+}
 
 .heading {
   font-family: 'Roboto Condensed', sans-serif;
@@ -30,7 +35,7 @@ body {
 }
 
 .bottom {
-  padding-left: 70px;
+  padding-left: 10%;
 }
 
 .bottom-links1 p {
@@ -51,6 +56,9 @@ body {
 .bottom-links1 a:hover {
   text-decoration: underline;
   color: white;
+}
+.bottom-links1{
+  padding-left: 4%;
 }
 
 .container-social a {
